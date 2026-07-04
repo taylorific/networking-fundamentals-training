@@ -58,9 +58,9 @@ routeAlias: toc
 <Toc columns="2"/>
 
 ---
-src: ./juniper/juniper-slides.md
+hideInToc: true
 ---
 
 ---
-src: ./kairos/kairos-slides.md
+src: ./juniper/juniper-slides.md
 ---
